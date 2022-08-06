@@ -1,0 +1,179 @@
+[
+    {
+      "name": "accent chair",
+      "price": 25,
+      "company": "marcos",
+      "rating": 4,
+      "country":"Mali",
+      "points" : 4
+    },
+    {
+      "name": "albany sectional",
+      "price": 109,
+      "company": "liddy",
+      "rating": 5,
+      "country":"Ghana",
+      "points" : 6
+    },
+    {
+      "name": "albany table",
+      "price": 309,
+      "company": "liddy",
+      "rating": 4.9,
+      "country":"Nigeria",
+      "points" : 8
+    },
+    {
+      "name": "armchair",
+      "price": 125,
+      "company": "marcos",
+      "rating": 4.8,
+      "country":"Benin",
+      "points" : 2
+    },
+    {
+      "name": "bar stool",
+      "price": 40,
+      "company": "liddy",
+      "rating": 4.6,
+      "country":"Mali",
+      "points" : 4
+    },
+    {
+      "name": "dining table",
+      "price": 42,
+      "company": "ikea",
+      "rating": 4.55,
+      "country":"Ghana",
+      "points" : 6
+    },
+    {
+      "name": "emperor bed",
+      "price": 23,
+      "company": "ikea",
+      "country":"Nigeria",
+      "points" : 8
+    },
+    {
+      "name": "entertainment center",
+      "price": 59,
+      "featured": true,
+      "company": "caressa",
+      "country":"Benin",
+      "points" : 2
+    },
+    {
+      "name": "high-back bench",
+      "price": 39,
+      "featured": true,
+      "company": "ikea",
+      "country":"Mali",
+      "points" : 4
+    },
+  
+    {
+      "name": "leather sofa",
+      "price": 99,
+      "company": "caressa",
+      "country":"Ghana",
+      "points" : 6
+    },
+    {
+      "name": "modern bookshelf",
+      "price": 31,
+      "featured": true,
+      "company": "caressa",
+      "country":"Nigeria",
+      "points" : 8
+    },
+    {
+      "name": "modern poster",
+      "price": 30,
+      "company": "liddy",
+      "country":"Benin",
+      "points" : 2
+    },
+    {
+      "name": "shelf",
+      "price": 30,
+      "company": "ikea",
+      "country":"Mali",
+      "points" : 4
+    },
+    {
+      "name": "simple chair",
+      "price": 109,
+      "company": "liddy",
+      "country":"Ghana",
+      "points" : 6
+    },
+    {
+      "name": "sofa set",
+      "price": 129,
+      "company": "marcos",
+      "country":"Nigeria",
+      "points" : 8
+    },
+    {
+      "name": "suede armchair",
+      "price": 15,
+      "company": "caressa",
+      "country":"Benin",
+      "points" : 2
+    },
+    {
+      "name": "utopia sofa",
+      "price": 79,
+      "featured": true,
+      "company": "liddy",
+      "country":"Mali",
+      "points" : 4
+    },
+    {
+      "name": "vase table",
+      "price": 120,
+      "featured": true,
+      "company": "marcos",
+      "country":"Ghana",
+      "points" : 6
+    },
+    {
+      "name": "wooden bed",
+      "price": 25,
+      "company": "ikea",
+      "country":"Nigeria",
+      "points" : 8
+    },
+    {
+      "name": "wooden desk",
+      "price": 15,
+      "company": "ikea",
+      "country":"Benin",
+      "points" : 2
+      
+    },
+    {
+      "name": "wooden desk",
+      "price": 40,
+      "company": "ikea",
+      "country":"Mali",
+      "points" : 4
+    },
+    {
+      "name": "wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "caressa",
+      "country":"Ghana",
+      "points" : 6
+    },
+    {
+      "name": "a first wooden table",
+      "price": 23,
+      "featured": true,
+      "company": "caressa",
+      "country":"Nigeria",
+      "points" : 8
+    }
+  ]
+  
